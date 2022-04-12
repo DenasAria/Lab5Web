@@ -30,7 +30,7 @@ Dipertemuan kali ini akan saya akan mempelajari apa itu javascript pada html, se
 ```
 dan hasil inputannya sebagai berikut
 
-![img1](https://user-images.githubusercontent.com/101621068/162908166-c0a18184-0724-44bd-bea6-eb4c4ee61e1d.png)
+![img1](https://user-images.githubusercontent.com/101621068/162909790-3b7abd04-c215-41a0-9f6f-c9e39558dbc7.png)
 
 ## Memasuki bagian Java Script Dasar
 
