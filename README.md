@@ -56,6 +56,7 @@ dan hasil inputannya sebagai berikut
 Penjelasannya sebagai berikut
 
 Pemakaian alert sebagai property window dan akan muncul di atas halaman dengan contoh hasil gambar seperti dibawah ini
+
 ![img2](https://user-images.githubusercontent.com/101621068/162909126-1f60372e-9452-45fd-84b0-046a96b02bd2.png)
 
 ### 3. Pemakaian Method Dalam Objek <b>
@@ -81,6 +82,7 @@ Pemakaian alert sebagai property window dan akan muncul di atas halaman dengan c
 ```
 
 Menggunakan Method dalam objek dengan javascript, seperti contoh codingan di atas dan hasil output nya adalah sebagai berikut
+
 ![img3](https://user-images.githubusercontent.com/101621068/162910443-b209c4fb-6c18-4c2d-ab9c-2f7f4bc6043d.png)
 
 ### 4.Pemakaian Prompt <b>
@@ -107,6 +109,7 @@ Menggunakan Method dalam objek dengan javascript, seperti contoh codingan di ata
 Penjelasannya sebagai berikut
 
 Menggunakan Prompt pada script seperti gambar di atas dan hasil output nya dibawah ini
+
 ![img4](https://user-images.githubusercontent.com/101621068/162910902-456accac-99e8-4d7e-95ef-0c2af2d84402.png)
 
 ### 5. Pembuatan Fungsi Dan Cara Pemanggilannya <b>
@@ -133,6 +136,7 @@ Menggunakan Prompt pada script seperti gambar di atas dan hasil output nya dibaw
 ```
 
 Berikut adalah Hasil Dari codingan diatas tadi
+
 ![img5](https://user-images.githubusercontent.com/101621068/162911233-5a8f6aea-2cb8-47c4-b5e8-d7c58d3a3b85.png)
 
 ## Dasar Pemrograman di Javascript
@@ -204,9 +208,11 @@ Operasi Dasar Artimatika dalam javascript seperti contoh gambar di bawah Merupak
 Penjelasannya sebagai berikut
 
 Ini adalah program seleksi kondisi dari if else disitu if nya jika nilai lebih sama dengan 60 berarti lulus dan else nya jika dibawah 60 berati tidak lulus, sementara saya memberi nilai 90 yang berarti hasil nya adalah lulus dan ini adalah hasil output dari codingan diatas
+
 ![img7](https://user-images.githubusercontent.com/101621068/162911907-efaf2edd-53f2-47d1-9456-43f039d3e4a8.png)
 
 Dan Jika nilai diatas 60 Berarti Menandakan Bahwa mahasiswa itu lulus
+
 ![img8](https://user-images.githubusercontent.com/101621068/162912095-39fafd7b-1db3-4db3-83a7-59cda6b04200.png)
 
 ### 8. Penggunaan Operator switch untuk seleksi kondisi <b>
@@ -256,9 +262,11 @@ Dan Jika nilai diatas 60 Berarti Menandakan Bahwa mahasiswa itu lulus
 Penjelasannya sebagai berikut
 
 Membuat form input dengan function javascript dan pengondisian if/else seperti gambar di atas saya memilih angka 5 maka akan menjadi bilangan ganjil
+
 ![img9](https://user-images.githubusercontent.com/101621068/162912478-60493b62-8744-4d96-9077-1f28a821a845.png)
 
 Penggunaan operator switch untuk seleksi kondisi, disini saya menulis program switch case sebagai seleksi kondisi dengan memasukan angka 5 sebagai angka seleksi nya kemudian output nya akan keluar argument bilangan lainnya dan ini adalah hasil outputnya
+
 ![img10](https://user-images.githubusercontent.com/101621068/162912587-4755545b-a65e-4cd8-9f2f-6ec125744e5e.png)
 
 ### 9. FORM INPUT <b>
@@ -293,7 +301,8 @@ Penggunaan operator switch untuk seleksi kondisi, disini saya menulis program sw
 
 Penjelasannya sebagai berikut
 
-Membuat form input dengan function javascript dan pengondisian if/else seperti gambar di atas saya memilih angka 10 maka akan menjadi bilangan genap .
+Membuat form input dengan function javascript dan pengondisian if/else seperti gambar di atas saya memilih angka 10 maka akan menjadi bilangan genap 
+
 ![img11](https://user-images.githubusercontent.com/101621068/162912902-177d593e-52c6-4020-a368-38fc470b9ac6.png)
 
 ### 10. Form Button <b>
@@ -334,6 +343,7 @@ Membuat form input dengan function javascript dan pengondisian if/else seperti g
 Penjelasannya sebagai berikut
 
 Disini menggunakan form button dengan function javascript dan html form button hasil nya adalah seperti contoh gambar di atas, saya memilih warna hijau dan teks biru
+
 ![img12](https://user-images.githubusercontent.com/101621068/162913224-68c6d848-8873-481b-9ede-bb5f91a8b8f7.png)
 
 ## HTML DOM
@@ -380,6 +390,7 @@ Disini menggunakan form button dengan function javascript dan html form button h
 Penjelasannya sebagai berikut
 
 Disini menggunakan HTML DOM dengan input type checkbox sebagai contoh codingan di atas menghitung secara otomatis dan ini adalah hasil outputnya
+
 ![img13](https://user-images.githubusercontent.com/101621068/162913668-746214cc-d4ad-42a5-8fcc-a87f287f40ab.png)
 
 ### PERTANYAAN DAN TUGAS <b>
@@ -482,9 +493,11 @@ body {
   Penjelasannya sebagai berikut
 
   Ini adalah contoh membuat form validasi dengan menggunakan script atau javascript terdapat beberapa pengondisian, jika data tidak di isi dengan lengkap maka akan terdapat prompt isi alamat anda dengan lengkap karena harus mengisi dengan lengkap seperti contoh gambar di atas
+
 ![img14](https://user-images.githubusercontent.com/101621068/162914131-36598fe7-04af-407e-b75f-9fa4272d6fa8.png)
 
 Sementara contoh gambar dibawah ini adalah ketika data tidak di isi dengan lengkap, maka akan ada prompt isi alamat anda dengan lengkap, tidak akan bisa disubmit karena data belum lengkap
+
 ![img15](https://user-images.githubusercontent.com/101621068/162914245-1d318f72-8b80-4277-9a4f-854f4f45e5d8.png)
 
 ## TERIMAKASIH
